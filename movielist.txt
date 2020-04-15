@@ -1,0 +1,21 @@
+1.Airlift,
+Duration-130min,
+Date-
+Time-1:30PM,5:00PM,
+Type-Drama,History,
+Director-Raja Menon,
+Stars- Akshay kumar,Nimarat kaur,Kumud Mishra,Prakash Belawadi
+2.Azhar,
+Duration-130min,
+Date-
+Time-2:30PM,7:00PM,
+Type-Biography,Drama,sport,
+Director-Anthony D'Souza,
+Stars-Emraan hashmi,Nargis Fakhri,Prachi Desai,
+3.Bajrangi Bhaijaan,
+Duration-163min,
+Date-
+Time-11:00AM,3:00PM,
+Type-Action,Comedy,drama,
+Director-Kabir khan,
+Stars-Salmam khan,Harshaali Malhotra,Nawazuddin siddique,Kareena kapoor,
